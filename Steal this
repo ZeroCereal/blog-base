@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <footer> "Blog Title" "MM-DD-YYYY"</footer>
+  <p>"Some Funny Stuff"</p>
+</body>
+</html>
