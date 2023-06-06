@@ -3,6 +3,7 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
+<!--Steal also style.css--!>
 <body>
   <footer> "Blog Title" "MM-DD-YYYY"</footer>
   <p>"Some Funny Stuff"</p>
